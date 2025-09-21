@@ -142,7 +142,7 @@ Deploy as a web app using Streamlit or Flask for interactive user access.
 
 
 
-Skills & Tools Demonstrated
+**Skills & Tools Demonstrated**
 
 Python Programming
 
